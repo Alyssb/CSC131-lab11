@@ -8,8 +8,8 @@
 class Circle {
 public:
     explicit Circle(double r = 1);
-    void setRadius(const double & r);
-    double area{} const;
+    double area const;
+    void setRadius(const double &r);
 
 private:
     double radius;
