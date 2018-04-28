@@ -10,6 +10,7 @@ Circle::Circle(double r)
     setRadius(r);
 }
 
+
 void Circle::setRadius(const double& r)
 {
     if (r > 0) {
