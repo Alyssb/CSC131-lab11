@@ -3,8 +3,7 @@
  * Missouri State University
 
  * @file lab11.cpp
- * @authors Jim Daehn <jdaehn@missouristate.edu>
- *          TODO: Replace this line with your name using the above format.
+ * @authors Alyssa Slayton <jajs41@missouristate.edu>
  */
 
 #include <cstdlib>
